@@ -14,6 +14,8 @@
 
 ![DataFlow RabbitMQ](images/DataFlow.png)
 
+> **Note**: If GitHub fails to render the diagrams above, you can view all architecture diagrams at: [Excalidraw Link](https://excalidraw.com/#json=dvqZwknQGYrJMvIMtxqEh,v51SHSdjPw7N-Q_gKc5shA)
+
 ## RabbitMQ Configuration for DataFlow Architecture
 
 The routing behavior shown in the DataFlow diagram above is achieved through specific RabbitMQ configurations:
